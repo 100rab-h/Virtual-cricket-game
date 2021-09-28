@@ -1,0 +1,10 @@
+﻿  game.cpp
+C:\Users\saura\Desktop\virtual-cricket-game\virtual-cricket-game\game.cpp(81,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saura\Desktop\virtual-cricket-game\virtual-cricket-game\game.cpp(89,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\saura\Desktop\virtual-cricket-game\virtual-cricket-game\game.cpp(177,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\saura\Desktop\virtual-cricket-game\virtual-cricket-game\game.cpp(274,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  player.cpp
+  team.cpp
+  virtual-cricket-game.cpp
+  Generating Code...
+  virtual-cricket-game.vcxproj -> C:\Users\saura\Desktop\virtual-cricket-game\x64\Debug\virtual-cricket-game.exe

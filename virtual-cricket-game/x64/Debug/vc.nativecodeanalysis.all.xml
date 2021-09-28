@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\SAURABH\OneDrive\Desktop\virtual-cricket-game\virtual-cricket-game\</FILEPATH>
+      <FILENAME>game.cpp</FILENAME>
+      <LINE>260</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>Game::playInnings</FUNCTION>
+    <DECORATED>?playInnings@Game@@QEAAXXZ</DECORATED>
+    <FUNCLINE>255</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\SAURABH\OneDrive\Desktop\virtual-cricket-game\virtual-cricket-game\</FILEPATH>
+      <FILENAME>player.cpp</FILENAME>
+      <LINE>3</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Player::id' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QEAA@XZ</DECORATED>
+    <FUNCLINE>3</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Player::id</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\SAURABH\OneDrive\Desktop\virtual-cricket-game\virtual-cricket-game\</FILEPATH>
+      <FILENAME>virtual-cricket-game.cpp</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\SAURABH\OneDrive\Desktop\virtual-cricket-game\virtual-cricket-game\</FILEPATH>
+      <FILENAME>virtual-cricket-game.cpp</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'getchar'.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>10</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
